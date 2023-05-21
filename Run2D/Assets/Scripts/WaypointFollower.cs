@@ -5,7 +5,7 @@ using UnityEngine;
 public class WaypointFollower : MonoBehaviour
 {
 
-    [SerializeField] private 
+    [SerializeField]
     private void Update()
     {
         
