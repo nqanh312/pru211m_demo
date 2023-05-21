@@ -1,0 +1,460 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.2965; Version 2009; 64bit' Language: 'en' Physical Memory: 16188 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/STUDY/SE7_SU23/PRU211m/Project/Run2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49894
+Successfully changed project path to: D:/STUDY/SE7_SU23/PRU211m/Project/Run2D
+D:/STUDY/SE7_SU23/PRU211m/Project/Run2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/STUDY/SE7_SU23/PRU211m/Project/Run2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) RX 640 (ID=0x6987)
+    Vendor:   
+    VRAM:     2028 MB
+    Driver:   30.0.13023.4001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001897 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000952 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 2.448100 ms (FindLiveObjects: 0.228300 ms CreateObjectMapping: 0.089900 ms MarkObjects: 1.997600 ms  DeleteObjects: 0.131100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms
+  artifactKey: Guid(1130458c4f2bec34b80fdf3fc00861b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms using Guid(1130458c4f2bec34b80fdf3fc00861b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bb78c0dc72b25f181434acce31fc8c') in 0.012087 seconds
+  Import took 0.023418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey On (32x8).png
+  artifactKey: Guid(7e73d0165dccc3745b6d9f293e19161c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey On (32x8).png using Guid(7e73d0165dccc3745b6d9f293e19161c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493513a768ea36ee7d9b2c2bbef9d4e8') in 0.273361 seconds
+  Import took 0.278264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey Off.png
+  artifactKey: Guid(19602dbd991e72f4c8df688afa341f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey Off.png using Guid(19602dbd991e72f4c8df688afa341f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57bd72896ece59a7d4cabb141b5ebeb7') in 0.022279 seconds
+  Import took 0.026034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000794 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Chain.png
+  artifactKey: Guid(d9c5a449db91d51488798b761c22fb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Chain.png using Guid(d9c5a449db91d51488798b761c22fb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000c0f544398ec6293eac023dc8a7fec') in 0.024778 seconds
+  Import took 0.033802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000813 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8).png
+  artifactKey: Guid(e242b62e7e6caee439fa1d024a8fa5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8).png using Guid(e242b62e7e6caee439fa1d024a8fa5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca56decb9b62bf6d82890fce5c5e557') in 0.052953 seconds
+  Import took 0.059100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown Off.png
+  artifactKey: Guid(2cebb83e3d9b5b247be3eb722143beb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown Off.png using Guid(2cebb83e3d9b5b247be3eb722143beb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28fa2572dff15a22588afbac09f621c8') in 0.045061 seconds
+  Import took 0.050345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.811672 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey Off.png
+  artifactKey: Guid(19602dbd991e72f4c8df688afa341f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey Off.png using Guid(19602dbd991e72f4c8df688afa341f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d71f57041e1a7c8e0c7570952f4751') in 0.008758 seconds
+  Import took 0.012682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2390.081390 seconds.
+  path: Assets/Animations/New Animation.anim
+  artifactKey: Guid(a64d8cb62130cb94997ec08c35f0cdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/New Animation.anim using Guid(a64d8cb62130cb94997ec08c35f0cdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b34e9a97e3f6af9ef4532fe321c1735') in 0.022274 seconds
+  Import took 0.030790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.267525 seconds.
+  path: Assets/Animations/MovingPlatform.anim
+  artifactKey: Guid(a64d8cb62130cb94997ec08c35f0cdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/MovingPlatform.anim using Guid(a64d8cb62130cb94997ec08c35f0cdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572ba3ff3c6e7faa37e24fa81d0320b8') in 0.012517 seconds
+  Import took 0.023696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.843878 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 1.png
+  artifactKey: Guid(50f8868a561f5db438d2abada4083866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 1.png using Guid(50f8868a561f5db438d2abada4083866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231879a3bb86157767ac8def725d95be') in 0.050374 seconds
+  Import took 0.054453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Chain 1.png
+  artifactKey: Guid(de49698e5665dc64ebe3f36c56ae50b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Chain 1.png using Guid(de49698e5665dc64ebe3f36c56ae50b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb709eb44ea4c03f92608932fdff12b4') in 0.018149 seconds
+  Import took 0.021900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 1.png
+  artifactKey: Guid(50f8868a561f5db438d2abada4083866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 1.png using Guid(50f8868a561f5db438d2abada4083866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231879a3bb86157767ac8def725d95be') in 0.039768 seconds
+  Import took 0.043381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Chain 1.png
+  artifactKey: Guid(de49698e5665dc64ebe3f36c56ae50b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Chain 1.png using Guid(de49698e5665dc64ebe3f36c56ae50b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb709eb44ea4c03f92608932fdff12b4') in 0.007668 seconds
+  Import took 0.012008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.142228 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 2.png
+  artifactKey: Guid(e101d16941eac974fb3797eb5556dad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 2.png using Guid(e101d16941eac974fb3797eb5556dad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8e0a7be8430e9f8215746869ed123c') in 0.038764 seconds
+  Import took 0.043293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.812627 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown Off 1.png
+  artifactKey: Guid(5a4229537bc56fe46b41b1c779f94bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown Off 1.png using Guid(5a4229537bc56fe46b41b1c779f94bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd66937f099084f16534ecd837ff13d') in 0.017050 seconds
+  Import took 0.022291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1887.827981 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown Off.png
+  artifactKey: Guid(2cebb83e3d9b5b247be3eb722143beb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown Off.png using Guid(2cebb83e3d9b5b247be3eb722143beb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166ff5fa7dc6a30f5b0376505856473a') in 0.013724 seconds
+  Import took 0.019373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.298355 seconds.
+  path: Assets/Animations/Moving Platform.controller
+  artifactKey: Guid(7e97f75e10426b7489e0f9837dcf95ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Moving Platform.controller using Guid(7e97f75e10426b7489e0f9837dcf95ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f032a9c0e661e6da43eebfd201f854d') in 0.015476 seconds
+  Import took 0.019485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.234715 seconds.
+  path: Assets/Animations/Moving Platform.anim
+  artifactKey: Guid(f44a082df28ee994e89536abd8faccd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Moving Platform.anim using Guid(f44a082df28ee994e89536abd8faccd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdadf07465f6bc46c5d2cf79b11dc031') in 0.004584 seconds
+  Import took 0.016366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003450 seconds.
+  path: Assets/Animations/Moving Platform.anim
+  artifactKey: Guid(f44a082df28ee994e89536abd8faccd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Moving Platform.anim using Guid(f44a082df28ee994e89536abd8faccd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdadf07465f6bc46c5d2cf79b11dc031') in 0.003218 seconds
+  Import took 0.007009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.869951 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 1.png
+  artifactKey: Guid(50f8868a561f5db438d2abada4083866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Brown On (32x8) 1.png using Guid(50f8868a561f5db438d2abada4083866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a5094672736cd6e36443cc9f4960a7') in 0.020904 seconds
+  Import took 0.024250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.704268 seconds.
+  path: Assets/Animations/Moving Platform.controller
+  artifactKey: Guid(7e97f75e10426b7489e0f9837dcf95ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Moving Platform.controller using Guid(7e97f75e10426b7489e0f9837dcf95ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05761bb2ffad8743775aecfa711730db') in 0.005909 seconds
+  Import took 0.017368 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005010 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 2.619400 ms (FindLiveObjects: 0.251300 ms CreateObjectMapping: 0.086800 ms MarkObjects: 2.116700 ms  DeleteObjects: 0.162600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 498.813700 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(002b010574fcc814da97247d07182a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(002b010574fcc814da97247d07182a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63473c0f7c5dad1467b1ad92fdd9b25b') in 0.019259 seconds
+  Import took 0.023045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.310640 seconds.
+  path: Assets/Scripts/WayPointFollower.cs
+  artifactKey: Guid(002b010574fcc814da97247d07182a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WayPointFollower.cs using Guid(002b010574fcc814da97247d07182a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47196ab517afae76b15b2cfdc5f4f5d0') in 0.014603 seconds
+  Import took 0.019182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008420 seconds.
+  path: Assets/Scripts/WayPointFollower.cs
+  artifactKey: Guid(002b010574fcc814da97247d07182a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WayPointFollower.cs using Guid(002b010574fcc814da97247d07182a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47196ab517afae76b15b2cfdc5f4f5d0') in 0.003498 seconds
+  Import took 0.008727 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001071 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.353 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 3.473800 ms (FindLiveObjects: 0.270300 ms CreateObjectMapping: 0.111900 ms MarkObjects: 2.927700 ms  DeleteObjects: 0.162300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001056 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2276.
+Total: 2.085800 ms (FindLiveObjects: 0.196400 ms CreateObjectMapping: 0.089800 ms MarkObjects: 1.692200 ms  DeleteObjects: 0.106300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002068 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.659 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 3.033700 ms (FindLiveObjects: 0.261600 ms CreateObjectMapping: 0.088700 ms MarkObjects: 2.537900 ms  DeleteObjects: 0.144400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.639841 seconds.
+  path: Assets/Scripts/WaypointPlat.cs
+  artifactKey: Guid(af247054f0655bd45a39cc4b04da3406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WaypointPlat.cs using Guid(af247054f0655bd45a39cc4b04da3406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b532c448f2f0bd8dce12bb1d367971') in 0.014424 seconds
+  Import took 0.019275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.459612 seconds.
+  path: Assets/Scripts/WaypointFollower.cs
+  artifactKey: Guid(af247054f0655bd45a39cc4b04da3406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WaypointFollower.cs using Guid(af247054f0655bd45a39cc4b04da3406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e29c61b9c15ba63ffb3c07276f28fef') in 0.014480 seconds
+  Import took 0.018478 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 2.994900 ms (FindLiveObjects: 0.269900 ms CreateObjectMapping: 0.085600 ms MarkObjects: 2.495500 ms  DeleteObjects: 0.141200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.513846 seconds.
+  path: Assets/Scripts/PlayerLife.cs
+  artifactKey: Guid(a9b24d10f6f6217488f7832c93999dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerLife.cs using Guid(a9b24d10f6f6217488f7832c93999dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d77dfda8acd41b291dc018b1239d79') in 0.016516 seconds
+  Import took 0.020359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018458 seconds.
+  path: Assets/Scripts/PlayerLife.cs
+  artifactKey: Guid(a9b24d10f6f6217488f7832c93999dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerLife.cs using Guid(a9b24d10f6f6217488f7832c93999dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d77dfda8acd41b291dc018b1239d79') in 0.002973 seconds
+  Import took 0.006673 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000890 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 1.846600 ms (FindLiveObjects: 0.191700 ms CreateObjectMapping: 0.066800 ms MarkObjects: 1.487400 ms  DeleteObjects: 0.099900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.878 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.059900 ms (FindLiveObjects: 0.173600 ms CreateObjectMapping: 0.074700 ms MarkObjects: 1.678300 ms  DeleteObjects: 0.132200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001026 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.189 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 2.428800 ms (FindLiveObjects: 0.197600 ms CreateObjectMapping: 0.078800 ms MarkObjects: 2.031100 ms  DeleteObjects: 0.120100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.957034 seconds.
+  path: Assets/Scripts/WaypointFollower.cs
+  artifactKey: Guid(2cfecf23fa5f6944ba7615c752182a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WaypointFollower.cs using Guid(2cfecf23fa5f6944ba7615c752182a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '394ba332c147577ac11c3342bd9b8f20') in 0.004889 seconds
+  Import took 0.011014 seconds .
+
